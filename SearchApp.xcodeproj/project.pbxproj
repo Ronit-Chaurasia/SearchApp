@@ -68,7 +68,7 @@
 		ABAED3942C04DABD0005DA82 = {
 			isa = PBXGroup;
 			children = (
-				ABAED39F2C04DABD0005DA82 /* Ronit_HiveAssignment */,
+				ABAED39F2C04DABD0005DA82 /* SearchApp */,
 				ABAED39E2C04DABD0005DA82 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -82,7 +82,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		ABAED39F2C04DABD0005DA82 /* Ronit_HiveAssignment */ = {
+		ABAED39F2C04DABD0005DA82 /* SearchApp */ = {
 			isa = PBXGroup;
 			children = (
 				ABAED3DF2C04F2EA0005DA82 /* Utilities */,
@@ -94,7 +94,7 @@
 				ABAED3A92C04DABF0005DA82 /* Assets.xcassets */,
 				ABAED3AE2C04DABF0005DA82 /* Info.plist */,
 			);
-			path = Ronit_HiveAssignment;
+			path = SearchApp;
 			sourceTree = "<group>";
 		};
 		ABAED3D02C04DCE40005DA82 /* Support FIles */ = {
@@ -419,7 +419,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = F4QQ6479LG;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Ronit_HiveAssignment/Info.plist;
+				INFOPLIST_FILE = SearchApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -447,7 +447,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = F4QQ6479LG;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = Ronit_HiveAssignment/Info.plist;
+				INFOPLIST_FILE = SearchApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
